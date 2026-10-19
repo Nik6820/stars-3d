@@ -1,6 +1,6 @@
 ISO-10303-21;
 HEADER;
-FILE_DESCRIPTION(('STEP AP242'),
+FILE_DESCRIPTION(('STEP AP214'),
     '1');
 FILE_NAME('Статор кожух',
     '',
@@ -9,7 +9,7 @@ FILE_NAME('Статор кожух',
     'C3D Converter',
     'C3D Toolkit',
     '');
-FILE_SCHEMA(('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1}'));
 ENDSEC;
 
 DATA;
